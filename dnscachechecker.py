@@ -119,15 +119,14 @@ def main():
     print(" - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts")
     print("\n[LEGAL] All lists used for research and personal security purposes. Read provider TOS before commercial/automated use.")
 
-    echo "========================================"
-echo
-echo "For legal, educational, and ethical use only. The Trave Tricksters Legion and script contributors take no responsibility for misuse."
-echo
-echo "installation finished"
+    print("=" * 40)
+    print()
+    print("For legal, educational, and ethical use only. The Trave Tricksters Legion and script contributors take no responsibility for misuse.")
+    print()
+    print("installation finished")
+    print()
 
-cat <<'EOF'
-
-
+    ascii_art = r"""
         %%%%                                            *@%%%%@-                                %%%%
        %%%%%                                        %%%%%%%%%%%%%%%%%-                         @%%%%
       *%%*%%%                                     %%%%%%%%%%%%%%%%%%%%%%%                      %%%%%
@@ -193,8 +192,8 @@ cat <<'EOF'
 
 Happy hacking!
 — The Trave Tricksters Legion CTF Team
-
-EOF
+"""
+    print(ascii_art)
 
 if __name__ == "__main__":
     main()
