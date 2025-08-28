@@ -3,7 +3,7 @@
 ![Platform: Windows](https://img.shields.io/badge/Platform-Windows-blue)
 ![Python: 3.x](https://img.shields.io/badge/Python-3.x-3776AB)
 
-A Python script for Windows systems that inspects the local DNS resolver cache and checks all resolved domains against multiple via Powershell, up-to-date public threat intelligence blocklists.
+A Python script for Windows systems that inspects the local DNS resolver cache via Powershell and checks all resolved domains against multiple, up-to-date public threat intelligence blocklists.
 
 > **Purpose:**  
 > Quickly discover malicious or suspicious domains your system has resolved—no packets, no logs, just forensic blue-team automation.
