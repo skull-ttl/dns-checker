@@ -1,4 +1,7 @@
 # DNS Cache Malicious Domain Checker
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![Platform: Windows](https://img.shields.io/badge/Platform-Windows-blue)
+![Python: 3.x](https://img.shields.io/badge/Python-3.x-3776AB)
 
 A Python script for Windows systems that inspects the local DNS resolver cache and checks all resolved domains against multiple, up-to-date public threat intelligence blocklists.
 
