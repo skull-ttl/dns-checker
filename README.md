@@ -92,3 +92,15 @@ Summary: 1 malicious, 3 known-good, 16 unsure/manual check
 
 [LEGAL] All lists used for research and personal security purposes.  
 Read provider TOS before commercial/automated use.
+
+---
+
+## Contributing & Issues
+
+This is a side project / portfolio tool.  
+If you run into problems or have suggestions, please email:
+
+📧 skull@ttl.zip
+
+Issues and PRs are welcome, but response times may vary.
+
